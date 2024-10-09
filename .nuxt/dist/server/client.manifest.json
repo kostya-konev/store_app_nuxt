@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Users/konstantinkonev/Downloads/Private/Projects/Frontend/nuxt_net_ninja/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/Users/konstantinkonev/Downloads/Private/Projects/Frontend/nuxt_net_ninja/node_modules/nuxt/dist/app/entry.js"
+  }
+}
